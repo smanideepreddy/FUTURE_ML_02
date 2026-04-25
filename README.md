@@ -90,5 +90,7 @@ This project shows how machine learning and NLP can automate customer support pr
 ---
 
 👤 Author
+
 singireddy manideep reddy
+
 Machine Learning Intern
